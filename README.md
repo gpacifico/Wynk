@@ -5,6 +5,8 @@ We take the planning out of first dates. Our platform connects users with an act
 ##Demographic
 Young, urban professionals who are tech-savvy and looking for a fun and low-stress way to meet new people and try new things.
 
+<a href = "http://wynk.world/">Link to Live Site. Go on a date!</a>
+
 ##Technologies
 - HTML
 - CSS
