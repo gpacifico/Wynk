@@ -1,6 +1,14 @@
-# c1.17_blind_date
+# Wynk Dating
 ## What We Do
 We take the planning out of first dates. Our platform connects users with an activity and restaurant so that there's less pressure and less planning.
+
+## Features
+- Rotating list of local activities
+- Restaurant is within walking distance of activity for your convenience
+- Matching algorithm based on your personality preferences
+- Facebook login uses your existing facebook profile and picture to populate Wynk's dating profile
+- Email sent to you when you are matched and when your date arrives at the location of the activity
+- When you are matched, Wynk's custom Chat is enabled and you can have real-time messaging with your date
 
 ## Demographic
 Young, urban professionals who are tech-savvy and looking for a fun and low-stress way to meet new people and try new things.
